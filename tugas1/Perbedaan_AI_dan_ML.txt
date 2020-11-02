@@ -1,0 +1,2 @@
+Perbedaan dari AI dan Machine Learning:
+Artificial Intelligence (AI) atau kecerdasan buatan merupakan sebuah program yang dirancang untuk dapat berfikir cerdas menyerupai kecerdasan manusia dan dapat membangun/mendevlop/belajar sendiri. Berbeda dengan Machine Learning yang merupakan cabang/bagian dari AI, Machine Learning merupakan salah satu cara pembelajaran suatu sistem yang diperoleh dari kumpulan data.
