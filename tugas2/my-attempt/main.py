@@ -28,4 +28,4 @@ print("Result:")
 for j in range(len(jenis)):
     print(jenis[j] / len(kriteria) * 100, "%", category[j])
 
-print("Your input is a", category[jenis.index(max(jenis))])
+print("Your iris is a", category[jenis.index(max(jenis))], "variant")
