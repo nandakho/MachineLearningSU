@@ -1,5 +1,5 @@
 Library yang digunakan:
-Membutuhkan library pandas.
+Membutuhkan library pandas dan numpy.
 
 Algorithm:
 Code akan menimport data.csv sebagai data pembelajaran menggunakan algoritma Naive Bayes.
